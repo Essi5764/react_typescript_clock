@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Typescript React Clock App
 
 ## Deployed Link
 
-[HERE](https://essi5764.github.io/React_Quiz_App/)
+[HERE](https://essi5764.github.io/react_typescript_clock/)
 
 This is a small project in typescript.
 
